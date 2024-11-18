@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "image": "https://gcs.tripi.vn/public-tripi/tripi-feed/img/474078mAB/hinh-anh-cuon-sach-mo-ra_103644366.jpg",
+      "id": 1,
+      "name": "Sản phẩm 1",
+      "price": 100000,
+      "createdAt": "2024-06-12T10:00:00Z"
+    },
+    {
+      "image": "https://gcs.tripi.vn/public-tripi/tripi-feed/img/474078yJW/anh-cuon-sach-da-mo-ra_051455673.jpg",
+      "id": 2,
+      "name": "Sản phẩm 2",
+      "price": 200000,
+      "createdAt": "2024-06-12T10:30:00Z"
+    },
+    {
+      "image": "https://gcs.tripi.vn/public-tripi/tripi-feed/img/474078Ddb/anh-cuon-sach-dep-mo-ra_051455894.jpg",
+      "id": 3,
+      "name": "Sản phẩm 3",
+      "price": 100000,
+      "createdAt": "2024-06-12T10:30:00Z"
+    },
+    {
+      "image": "https://gcs.tripi.vn/public-tripi/tripi-feed/img/474078zbB/anh-cuon-sach-mo-ra-cuc-dep_051456080.jpg",
+      "id": 4,
+      "name": "Sản phẩm 4",
+      "price": 150000,
+      "createdAt": "2024-06-12T10:30:00Z"
+    }
+  ]
+}
